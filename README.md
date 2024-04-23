@@ -1,4 +1,4 @@
-# timeseries_outlier_detection_evaluation
+# Identifying a reliable evaluation metric for outlier detection in time series
 find the best metric for detecting outliers in time series 
 
 ### Problem Definition
